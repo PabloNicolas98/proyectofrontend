@@ -147,7 +147,7 @@ h2{
 }
 
 form{
-    width: 400px;
+    width: 350px;
     padding: 10px;
     margin: auto;
 }
@@ -299,4 +299,5 @@ footer .nav {
 
 footer div span{
     color: var(--snow) !important;
+
 }
