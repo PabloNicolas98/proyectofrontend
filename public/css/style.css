@@ -147,7 +147,7 @@ h2{
 }
 
 form{
-    width: 350px;
+    width: 340px;
     padding: 10px;
     margin: auto;
 }
@@ -301,3 +301,4 @@ footer div span{
     color: var(--snow) !important;
 
 }
+
