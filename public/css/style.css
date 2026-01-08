@@ -88,12 +88,13 @@ body{
     border-color: var(--red);
 }
 
-.portada{
-    display: none;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto;
+.portada {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
 }
+
 
 h1{
     font-size: 40px;
@@ -231,14 +232,13 @@ form{
         transform: translateY(-8px) rotate(-45deg);
     }
 
-.portada{
+
+  .portada {
     display: block;
-    margin: 0;
+    margin: 0 auto;
     max-width: 100%;
     height: auto;
-    padding: 10px;
-    
-}
+  }
 
 .introduccion{
     font-size: 18px;
@@ -301,6 +301,7 @@ footer div span{
     color: var(--black);
 
 }
+
 
 
 
