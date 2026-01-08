@@ -89,10 +89,11 @@ body{
 }
 
 .portada {
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 960px;
   margin: 0 auto;
-  max-width: 100%;
-  height: auto;
 }
 
 
@@ -233,13 +234,7 @@ form{
     }
 
 
-  .portada {
-    display: block;
-    margin: 0 auto;
-    max-width: 100%;
-    height: auto;
-  }
-
+  
 .introduccion{
     font-size: 18px;
     line-height: 1.5;
@@ -301,6 +296,7 @@ footer div span{
     color: var(--black);
 
 }
+
 
 
 
