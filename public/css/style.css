@@ -93,6 +93,8 @@ body{
     align-items: center;
     justify-content: center;
     margin: 0 auto;
+    width: 300px;
+    height:600px;
 }
 
 h1{
@@ -299,6 +301,7 @@ footer div span{
     color: var(--black);
 
 }
+
 
 
 
