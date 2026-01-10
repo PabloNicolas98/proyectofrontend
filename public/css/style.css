@@ -92,6 +92,7 @@ body{
    width: 100%;
    display: flex;
    justify-content: center;
+   padding: 10px;
 }
 
 
@@ -298,6 +299,7 @@ footer div span{
     color: var(--black);
 
 }
+
 
 
 
